@@ -1,3 +1,6 @@
 import streamlit 
 
-streamlit.title("My parent new Healthy Diner")
+streamlit.title("My title")
+streamlit.header("My header")
+streamlit.text("My text")
+
